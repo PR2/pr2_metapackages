@@ -2,19 +2,27 @@
   <name>pr2_base</name>
   <version>1.0.0</version>
   <description>A metapackage to aggregate several packages.</description>
-  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
   <license>BSD</license>
 
-  <url type="repository">https://github.com/ros/metapackages</url>
-  <url type="bugtracker">https://github.com/ros/metapackages/issues</url>
+  <url type="repository">https://github.com/pr2/pr2_metapackages</url>
+  <url type="bugtracker">https://github.com/pr2/pr2_metapackages/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>control</run_depend>
+  <!-- Changed from stack to control_msgs -->
+  <run_depend>control_msgs</run_depend>
   <run_depend>geometry_experimental</run_depend>
   <run_depend>joystick_drivers</run_depend>
   <run_depend>mobile</run_depend>
+
+  <!-- Deprecated, instead, MoveIt will be used -->
   <run_depend>object_manipulation</run_depend>
+
+  <!-- Replacement for pick and place functionality -->
+  <run_depend>moveit_pr2</run_depend>
+  <run_depend>moveit_full</run_depend>
+
   <run_depend>perception</run_depend>
   <run_depend>perception_pcl</run_depend>
   <run_depend>pr2_apps</run_depend>
@@ -25,7 +33,10 @@
   <run_depend>pr2_kinematics</run_depend>
   <run_depend>pr2_mechanism</run_depend>
   <run_depend>pr2_navigation</run_depend>
+
+  <!-- Deprecated for MoveIt -->
   <run_depend>pr2_object_manipulation</run_depend>
+
   <run_depend>ros_realtime</run_depend>
   <run_depend>sql_database</run_depend>
   <run_depend>warehouse_ros</run_depend>
