@@ -17,7 +17,7 @@
   <run_depend>mobile</run_depend>
 
   <!-- Deprecated, instead, MoveIt will be used -->
-  <run_depend>object_manipulation</run_depend>
+  <!-- <run_depend>object_manipulation</run_depend> -->
 
   <!-- Replacement for pick and place functionality -->
   <run_depend>moveit_pr2</run_depend>
@@ -35,7 +35,7 @@
   <run_depend>pr2_navigation</run_depend>
 
   <!-- Deprecated for MoveIt -->
-  <run_depend>pr2_object_manipulation</run_depend>
+  <!-- <run_depend>pr2_object_manipulation</run_depend> -->
 
   <run_depend>ros_realtime</run_depend>
   <run_depend>sql_database</run_depend>
