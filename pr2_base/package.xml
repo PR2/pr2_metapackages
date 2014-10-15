@@ -39,7 +39,7 @@
 
   <run_depend>ros_realtime</run_depend>
   <run_depend>sql_database</run_depend>
-  <run_depend>warehouse_ros</run_depend>
+ <!-- <run_depend>warehouse_ros</run_depend> -->
 
   <!-- Deprecated -->
   <!-- <run_depend>web_interface</run_depend> -->
