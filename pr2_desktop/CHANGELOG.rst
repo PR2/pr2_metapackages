@@ -4,6 +4,10 @@ Changelog for package pr2_desktop
 
 Forthcoming
 -----------
+* Updated changelogs
+* change maintainer
+* Contributors: Dirk Thomas, TheDash
+
 * change maintainer
 * Contributors: Dirk Thomas
 

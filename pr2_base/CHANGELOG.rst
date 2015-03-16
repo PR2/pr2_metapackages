@@ -4,6 +4,11 @@ Changelog for package pr2_base
 
 Forthcoming
 -----------
+* Collapsed pr2 moveit deps
+* Updated changelogs
+* Added dependency for warehouse_ros
+* Contributors: TheDash
+
 * Added dependency for warehouse_ros
 * Contributors: TheDash
 
