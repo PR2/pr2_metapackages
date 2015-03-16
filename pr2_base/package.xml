@@ -20,8 +20,7 @@
   <!-- <run_depend>object_manipulation</run_depend> -->
 
   <!-- Replacement for pick and place functionality -->
-  <run_depend>moveit_pr2</run_depend>
-  <run_depend>moveit_full</run_depend>
+  <run_depend>moveit_full_pr2</run_depend>
 
   <run_depend>perception</run_depend>
   <run_depend>perception_pcl</run_depend>
