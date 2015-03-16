@@ -2,6 +2,11 @@
 Changelog for package pr2_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added dependency for warehouse_ros
+* Contributors: TheDash
+
 1.0.4 (2014-10-15)
 ------------------
 * Removed dependency on warehouse_ros
