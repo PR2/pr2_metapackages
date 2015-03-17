@@ -2,8 +2,8 @@
 Changelog for package pr2_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2015-03-17)
+------------------
 * Collapsed pr2 moveit deps
 * Updated changelogs
 * Added dependency for warehouse_ros

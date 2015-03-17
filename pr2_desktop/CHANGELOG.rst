@@ -2,8 +2,8 @@
 Changelog for package pr2_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2015-03-17)
+------------------
 * Updated changelogs
 * change maintainer
 * Contributors: Dirk Thomas, TheDash
