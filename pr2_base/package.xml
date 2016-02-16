@@ -2,7 +2,7 @@
   <name>pr2_base</name>
   <version>1.0.0</version>
   <description>A metapackage to aggregate several packages.</description>
-  <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
   <license>BSD</license>
 
   <url type="repository">https://github.com/ros/metapackages</url>
