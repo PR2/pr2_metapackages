@@ -10,11 +10,11 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>control</run_depend>
+  <!--<run_depend>control</run_depend>-->
   <run_depend>geometry_experimental</run_depend>
   <run_depend>joystick_drivers</run_depend>
-  <run_depend>mobile</run_depend>
-  <run_depend>object_manipulation</run_depend>
+  <!--<run_depend>mobile</run_depend>-->
+  <!--<run_depend>object_manipulation</run_depend>-->
   <run_depend>perception</run_depend>
   <run_depend>perception_pcl</run_depend>
   <run_depend>pr2_apps</run_depend>
