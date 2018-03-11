@@ -15,7 +15,7 @@
   <!--<run_depend>camera_drivers</run_depend>-->
   <run_depend>imu_drivers</run_depend>
   <run_depend>joystick_drivers</run_depend>
-  <run_depend>laser_drivers</run_depend>
+  <run_depend>hokoyo_node</run_depend>
   <run_depend>linux_networking</run_depend>
   <run_depend>pr2_base</run_depend>
   <run_depend>pr2_ethercat_drivers</run_depend>
