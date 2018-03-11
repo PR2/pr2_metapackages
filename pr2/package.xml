@@ -13,7 +13,7 @@
   <run_depend>pr2_apps</run_depend>
   <run_depend>audio_common</run_depend>
   <!--<run_depend>camera_drivers</run_depend>-->
-  <run_depend>imu_drivers</run_depend>
+  <run_depend>microstrain_3dmgx2_imu</run_depend>
   <run_depend>joystick_drivers</run_depend>
   <run_depend>hokoyo_node</run_depend>
   <run_depend>linux_networking</run_depend>
@@ -22,9 +22,9 @@
   <run_depend>pr2_navigation_apps</run_depend>
   <run_depend>pr2_power_drivers</run_depend>
   <run_depend>pr2_robot</run_depend>
-  <run_depend>prosilica_driver</run_depend>
+  <run_depend>prosilica_camera</run_depend>
   <run_depend>wge100_driver</run_depend>
-  <run_depend>wifi_drivers</run_depend>
+  <run_depend>wifi_ddwrt</run_depend>
 
   <export>
     <metapackage/>
