@@ -2,8 +2,8 @@
 Changelog for package pr2_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2018-03-17)
+------------------
 * pr2_metapackages: removed dependencies on deprecated packages:
   pr2_gui, camera_drivers, mobile, object_manipulation
 * updated maintainers

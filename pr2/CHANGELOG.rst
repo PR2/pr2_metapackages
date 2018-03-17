@@ -2,8 +2,8 @@
 Changelog for package pr2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2018-03-17)
+------------------
 * pr2: changed dependencies on driver metapackages (which no longer exist) to instead depend on particular driver packages (which do)
 * updated to remove deprecated package pr2_object_manipulation and replace with moveit_pr2 and laser_drivers and replace with hokoyo_node
 * pr2_metapackages: removed dependencies on deprecated packages:
