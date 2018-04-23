@@ -1,8 +1,8 @@
 <package>
   <name>pr2_desktop</name>
-  <version>1.0.0</version>
+  <version>1.1.2</version>
   <description>A metapackage to aggregate several packages.</description>
-  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+  <maintainer email="dave@cse.unr.edu">Dave Feil-Seifer</maintainer>
   <license>BSD</license>
 
   <url type="repository">https://github.com/ros/metapackages</url>
@@ -13,7 +13,7 @@
   <run_depend>desktop_full</run_depend>
   <run_depend>pr2_base</run_depend>
   <run_depend>pr2_ethercat_drivers</run_depend>
-  <run_depend>pr2_gui</run_depend>
+  <!--<run_depend>pr2_gui</run_depend>-->
   <run_depend>pr2_navigation</run_depend>
   <run_depend>pr2_power_drivers</run_depend>
   <run_depend>pr2_simulator</run_depend>
