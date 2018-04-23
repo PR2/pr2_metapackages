@@ -2,8 +2,8 @@
 Changelog for package pr2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.2 (2018-04-22)
+------------------
 * fixed spelling of hokuyo
 * Contributors: David Feil-Seifer
 

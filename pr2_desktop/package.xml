@@ -1,6 +1,6 @@
 <package>
   <name>pr2_desktop</name>
-  <version>1.1.1</version>
+  <version>1.1.2</version>
   <description>A metapackage to aggregate several packages.</description>
   <maintainer email="dave@cse.unr.edu">Dave Feil-Seifer</maintainer>
   <license>BSD</license>
