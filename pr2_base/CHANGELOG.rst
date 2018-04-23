@@ -2,8 +2,8 @@
 Changelog for package pr2_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.1 (2018-04-22)
+------------------
 * updated changelogs
 * updated maintainer, updated changelog
 * updated to remove deprecated package pr2_object_manipulation and replace with moveit_pr2 and laser_drivers and replace with hokoyo_node

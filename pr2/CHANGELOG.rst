@@ -2,8 +2,8 @@
 Changelog for package pr2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.1 (2018-04-22)
+------------------
 * updated changelogs
 * updated maintainer, updated changelog
 * pr2: changed dependencies on driver metapackages (which no longer exist) to instead depend on particular driver packages (which do)
