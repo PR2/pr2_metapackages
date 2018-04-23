@@ -2,6 +2,9 @@
 Changelog for package pr2_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.1.1 (2018-04-22)
 ------------------
 * updated changelogs
